@@ -1,0 +1,8 @@
+{
+  "tenant_id"     : "6871727a-5747-424a-b9d4-39a621930267",
+  "client_id"     : "012b7898-6c8b-41c0-bb58-11817fb6d6f7",
+  "client_secret" : "DFDZYSZKMJR62wp9shiWVUQaRlLEglXpRGX6ofdglus=",
+  "user_name"     : "jflood@lixar.com",
+  "password"      : "Fl00dst3r11",
+  "dyn365_url"    : "https://lixarqa.crm3.dynamics.com/"
+}
